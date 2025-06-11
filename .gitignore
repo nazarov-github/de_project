@@ -1,0 +1,7 @@
+.env
+keys
+config/
+doc
+minio_data/
+logs/
+spark/jars/
